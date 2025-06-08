@@ -1,7 +1,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yeaminhossen0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohammadyeamin.hossain.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yeamin_h_bijoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yeamin_hbijoy)  
 ### Hi there 👋, my name is Md. Yeamin Hossen
 #### Passionate web developer from Bangladesh
-![Passionate web developer from Bangladesh](es/bahttps://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/489819897_1236697528071698_3196356962141733960_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGX0jyDKOpuNeE8D6dHC1hgm0WCSxc9UDmbRYJLFz1QOdw_GWSagfI_JoWepr9wJ5UGqjgp7Wt0wyqwo-aAuXEX&_nc_ohc=RQixyJYlmtUQ7kNvwGaiVvQ&_nc_oc=AdklthgOMi0DtqQ7DRBuYcL_k9BO8EVdcXjKUTwrO45VqrZIuictSwJea9Sy-X5YMVk&_nc_zt=23&_nc_ht=scontent.fcgp13-1.fna&_nc_gid=74YPCIOTAOw2IefbkGMdIw&oh=00_AfOznwYiVBNd5HtwrvwLbiXUhpNRUAvcqH9-5rBj9CYjHA&oe=684A5CFEnner.png)
 
 Hi! I'm passionate Front-End Web Developer from Bangladesh. Currently learning HTML, CSS, Git & GitHub, and building responsive web projects. Focused on mastering JavaScript next. 🚀
 
